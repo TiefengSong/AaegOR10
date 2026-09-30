@@ -31,9 +31,3 @@ These files can be used to reproduce macrostate-specific distributions and free-
 ### `unbiased/`
 - `unbiased_analysis.ipynb`: Analyze unbiased trajectories, contacts, tICA projections, RMSD, ligand/lipid distances, and mutation-related comparisons.
 - `apo_closed.tpr`, `apo_open.tpr`, `holo_closed.tpr`, `holo_open.tpr`: GROMACS system/run input files for the four unbiased systems.
-
-### `Aede_complex/`
-Contains 176 Aedes odorant-receptor candidate structures in mmCIF format for structural comparison and screening.
-
-### `Electrophysiological_data.zip`
-Contains ABF electrophysiological recordings for wild-type AaegOR10 and several mutants, including F294, F356, I293, M288, S291, and Y297 variants.
