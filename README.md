@@ -1,6 +1,6 @@
 # From Ligand Binding to Pore Opening in the Mosquito Odorant Receptor AaegOR10
 
-This repository contains the analysis workflows and supporting data for the study **“From Ligand Binding to Pore Opening in the Mosquito Odorant Receptor AaegOR10.”**
+This repository contains the analysis workflows for the study **“From Ligand Binding to Pore Opening in the Mosquito Odorant Receptor AaegOR10.”**
 
 ## Contents
 
